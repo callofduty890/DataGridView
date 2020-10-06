@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_6_代码", "10_6_代码\10_6_代码.csproj", "{42EE36AB-7F4E-4BE8-B0C8-9AF42847F122}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_GridView", "10_6_代码\00_GridView.csproj", "{42EE36AB-7F4E-4BE8-B0C8-9AF42847F122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_数据库联合控件", "01_数据库联合控件\01_数据库联合控件.csproj", "{FCC620B1-460A-4BD2-B7C0-A01E11D7C0D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SQLHelper", "02_SQLHelper\02_SQLHelper.csproj", "{31D3120E-B7CE-436C-B148-FCFF5B65F625}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{42EE36AB-7F4E-4BE8-B0C8-9AF42847F122}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42EE36AB-7F4E-4BE8-B0C8-9AF42847F122}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42EE36AB-7F4E-4BE8-B0C8-9AF42847F122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC620B1-460A-4BD2-B7C0-A01E11D7C0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC620B1-460A-4BD2-B7C0-A01E11D7C0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC620B1-460A-4BD2-B7C0-A01E11D7C0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC620B1-460A-4BD2-B7C0-A01E11D7C0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D3120E-B7CE-436C-B148-FCFF5B65F625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D3120E-B7CE-436C-B148-FCFF5B65F625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D3120E-B7CE-436C-B148-FCFF5B65F625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D3120E-B7CE-436C-B148-FCFF5B65F625}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
